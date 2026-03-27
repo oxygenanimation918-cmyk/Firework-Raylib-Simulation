@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Firework Raylib Simulation/Firework Raylib Simulation.vcxproj" Id="52d5256f-c6b6-437f-add2-411275b004e2" />
+</Solution>
